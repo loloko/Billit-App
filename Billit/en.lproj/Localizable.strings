@@ -1,0 +1,87 @@
+//SigninViewController
+"E-mail is required" = "E-mail is required";
+"Password is required" = "Password is required";
+"E-mail/password invalid" = "E-mail/password invalid";
+"Error trying to log in with social" = "Error trying to log in with %@";
+"Are you new here? " = "Are you new here? ";
+"Sign up" = "Sign up";
+"Continue as " = "Continue as ";
+
+//RegisterViewController
+"Name is required" = "Name is required";
+"Confirm Password is required" = "Confirm Password is required";
+"Passwords don't match" = "Passwords don't match";
+"Invalid e-mail" = "Invalid e-mail";
+"Password weak" = "Password is weak,must have at least 6 characters";
+"E-mail already in use" = "E-mail already in use";
+"Incorrect information" = "Incorrect information";
+
+//ResetPasswordViewController
+"e-mail reset" = "Please enter an e-mail address for password reset";
+"e-mail sent" = "We have just sent you a password reset e-mail. Please check your inbox";
+"E-mail not found in our database" = "E-mail not found in our database";
+
+//SettingsViewController
+"Guest" = "Guest";
+"No e-mail" = "No e-mail";
+"Social" = "Social";
+"Preferences" = "Preferences";
+"Change Picture" = "Change Picture";
+"Sign out" = "Sign out";
+"Sign in" = "Sign in";
+"Default Currency" = "Default Currency";
+
+//BillDetailViewController
+"Please insert a tittle" = "Please insert a tittle";
+"Please pick a date" = "Please pick a date";
+"Amount is required" = "Amount is required";
+"It's required at least 2 people" = "It's required at least 2 people";
+"Amount exceeded: amount" = "Amount exceeded: %.02f";
+"Amount left of: amount" = "Amount left of: %.02f";
+
+//BillViewController
+"Just owner can" = "Action not possible, just the owner can modify";
+"Owner: name" = "Owner: %@";
+"Splitted with: names" = "Splitted with: %@";
+"number debts" = "%d debts";
+"Edit" = "Edit";
+"Delete" = "Delete";
+"New" = "New";
+"Add access code" = "Add access code";
+"Access Code" = "Access Code";
+"Shared code" = "Shared code";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"Enter access code" = "Enter access code";
+"Access code not found" = "Access code not found";
+
+//ActivityViewController
+"gave" = "gave";
+"paid" = "paid";
+"owes" = "owes";
+"deleted 1 image" = "deleted 1 image";
+"Added count image(s)" = "Added %d image(s)";
+
+
+//AttachPopupViewController
+"close" = "Close";
+
+//PayDebitPopupViewController
+"Please insert the amount to be paid" = "Please insert the amount to be paid";
+"Amount must be bigger than 0" = "Amount must be bigger than 0";
+"Amount can't exceed the total of amount" = "Amount can't exceed the total of  %.02f";
+"Please insert only numbers and decimal point" = "Please insert only numbers and decimal point";
+
+//UIViewController+custom
+"You must sign in to continue" = "You must sign in to continue";
+"created" = "Created";
+"edited" = "Edited";
+"No internet connection" = "No Internet Connection";
+"Make sure your device is connected to the internet" = "Make sure your device is connected to the internet";
+"Are you sure to delete this?" = "Are you sure to delete this?";
+"Attention" = "Attention";
+
+//SettignsViewController
+"Error to upload photo" = "Error to upload image";
+"Change language" = "Change language";
+

@@ -1,0 +1,87 @@
+
+//SigninViewController
+"E-mail is required" = "E-mail é obrigatorio";
+"Password is required" = "Senha é obrigatoria";
+"E-mail/password invalid" = "E-mail/senha inválidos";
+"Error trying to log in with social" = "Erro ao tentar fazer login com o %@";
+"Are you new here? " = "Novo aqui? ";
+"Sign up" = "Registre";
+"Continue as " = "Continue como ";
+
+//RegisterViewController
+"Name is required" = "Nome é obrigatorio";
+"Confirm Password is required" = "Confirmar Senha é obrigatorio";
+"Passwords don't match" = "Senha não combinam";
+"Invalid e-mail" = "E-mail inválido";
+"Password weak" = "A senha é fraca, deve ter pelo menos 6 caracteres";
+"E-mail already in use" = "Email já em uso";
+"Incorrect information" = "Informações incorretas";
+
+//ResetPasswordViewController
+"e-mail reset" = "Digite um endereço de e-mail para redefinição de senha";
+"e-mail sent" = "Acabamos de enviar um e-mail de redefinição de senha. Verifique sua caixa de entrada";
+"E-mail not found in our database" = "E-mail não encontrado em nosso banco de dados";
+
+//SettingsViewController
+"Guest" = "Convidado";
+"No e-mail" = "sem e-mail";
+"Social" = "Social";
+"Preferences" = "Preferências";
+"Change Picture" = "Alterar imagem";
+"Sign out" = "Sair";
+"Sign in" = "Fazer login";
+"Default Currency" = "Moeda Padrão";
+
+//BillDetailViewController
+"Please insert a tittle" = "Por favor insira um título";
+"Please pick a date" = "Por favor escolha uma data";
+"Amount is required" = "Montante necessário";
+"It's required at least 2 people" = "É necessário pelo menos 2 pessoas";
+"Amount exceeded: amount" = "Montante excedido: %.02f";
+"Amount left of: amount" = "Valor restante de: %.02f";
+
+//BillViewController
+"Just owner can" = "Ação não possível, apenas o proprietário pode modificar";
+"Owner: name" = "Dono: %@";
+"Splitted with: names" = "Dividido com: %@";
+"number debts" = "%d dívidas";
+"Edit" = "Editar";
+"Delete" = "Deletar";
+"New" = "Novo";
+"Add access code" = "Adicionar código de acesso";
+"Access Code" = "Código de acesso";
+"Shared code" = "Código compartilhado";
+"Done" = "Pronto";
+"Cancel" = "Cancelar";
+"Enter access code" = "Digite o código de acesso";
+"Access code not found" = "Código de acesso não encontrado";
+
+//ActivityViewController
+"gave" = "deu";
+"paid" = "pagou";
+"owes" = "deve";
+"deleted 1 image" = "Deletou 1 imagem";
+"Added count image(s)" = "%d Imagem adicionada";
+
+
+//AttachPopupViewController
+"close" = "Fechar";
+
+//PayDebitPopupViewController
+"Please insert the amount to be paid" = "Insira o valor a ser pago";
+"Amount must be bigger than 0" = "O valor deve ser maior que 0";
+"Amount can't exceed the total of amount" = "O valor não pode exceder o total de  %.02f";
+"Please insert only numbers and decimal point" = "Por favor, insira apenas números e ponto decimal";
+
+//UIViewController+custom
+"You must sign in to continue" = "Você deve fazer login para continuar";
+"created" = "Criado";
+"edited" = "Editado";
+"No internet connection" = "Sem conexão à internet";
+"Make sure your device is connected to the internet" = "Verifique se o seu dispositivo está conectado à Internet";
+"Are you sure to delete this?" = "Tem certeza de que deseja excluir?";
+"Attention" = "Atenção";
+
+//SettignsViewController
+"Error to upload photo" = "Erro ao fazer upload da imagem";
+"Change language" = "Mudar idioma";
